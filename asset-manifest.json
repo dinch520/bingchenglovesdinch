@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bingchenglovesdinch/static/css/main.5390f392.chunk.css",
-    "main.js": "/bingchenglovesdinch/static/js/main.a4b6e40e.chunk.js",
-    "main.js.map": "/bingchenglovesdinch/static/js/main.a4b6e40e.chunk.js.map",
+    "main.js": "/bingchenglovesdinch/static/js/main.be9ad9b2.chunk.js",
+    "main.js.map": "/bingchenglovesdinch/static/js/main.be9ad9b2.chunk.js.map",
     "runtime-main.js": "/bingchenglovesdinch/static/js/runtime-main.f5689171.js",
     "runtime-main.js.map": "/bingchenglovesdinch/static/js/runtime-main.f5689171.js.map",
     "static/js/2.365eeefd.chunk.js": "/bingchenglovesdinch/static/js/2.365eeefd.chunk.js",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.f5689171.js",
     "static/js/2.365eeefd.chunk.js",
     "static/css/main.5390f392.chunk.css",
-    "static/js/main.a4b6e40e.chunk.js"
+    "static/js/main.be9ad9b2.chunk.js"
   ]
 }
